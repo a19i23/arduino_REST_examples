@@ -6,9 +6,6 @@ by Moheeb Zara @ Octoblu
 
 Feb/2015
 
-
-
-
 Shawn Hymel @ SparkFun Electronics
 March 1, 2014
 https://github.com/sparkfun/SFE_CC3000_Library
